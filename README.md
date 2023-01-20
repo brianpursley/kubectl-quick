@@ -1,2 +1,13 @@
 # kubectl-quick
-A kubectl plugin that is like kubectl edit, but for creating resources
+
+A kubectl plugin that opens an editor and applies what you save.
+
+## Installing
+
+Copy `kubectl-quick` somewhere in your path
+
+## Usage
+
+```
+kubectl quick
+```
